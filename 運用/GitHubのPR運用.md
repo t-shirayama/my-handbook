@@ -21,3 +21,10 @@ PRのタイトルは、修正内容が一目で分かるようにする。
 ## Labels / Milestone
 
 PRに `Labels` や `Milestone` を設定しておくと、後から検索・集計する際に役立つことがある。
+
+## 参考
+
+- [Creating a pull request template for your repository - GitHub Docs](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository)
+- [Helping others review your changes - GitHub Docs](https://docs.github.com/en/enterprise-server@3.17/pull-requests/collaborating-with-pull-requests/getting-started/helping-others-review-your-changes)
+- [Filtering and searching issues and pull requests - GitHub Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/filtering-and-searching-issues-and-pull-requests)
+- [Using labels and milestones to track work - GitHub Docs](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work)
