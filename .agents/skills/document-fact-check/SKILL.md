@@ -9,7 +9,7 @@ Use this skill when checking or correcting factual claims in documentation.
 
 ## Workflow
 
-1. Identify the target document. It may be an uploaded file, a path in the working directory, or content pasted inline. If the source is unclear, ask the user before proceeding.
+1. Identify the target document. It may be an uploaded file, a path in the working directory, or content pasted inline. If no target is specified, inspect the working tree diff and fact-check only the changed files and changed sections. If the source is still unclear, ask the user before proceeding.
 2. Prefer official documentation, specifications, standards, vendor docs, or other primary sources.
 3. For programming languages, frameworks, libraries, tools, APIs, and platforms, prefer their official docs or release notes.
 4. Check whether each claim is accurate, overstated, ambiguous, outdated, or missing important context.
